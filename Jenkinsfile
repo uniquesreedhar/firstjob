@@ -22,6 +22,7 @@ pipeline {
           
             steps {
                 echo 'Good Morning'
+                echo 'Very Nice'
             }
         }
     }
